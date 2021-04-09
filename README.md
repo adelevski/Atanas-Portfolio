@@ -16,11 +16,14 @@ My portfolio of projects
 * MNIST Logistic Regression Classifier
 * KNN Classifier
 * K-Means Clustering
+
 ---------------------------------------------
+
 ## [Style Transfer](https://github.com/adelevski/Style-Transfer)
 * Used streamlit to create a fast and lightweight dashboard
 * Leveraged PyTorch neural transfer for transfering image styles
 * User has ability to upload an image, and view several different new styles for their image
+
 ----------------------------------------------
 ## [Finance Dashboards](https://github.com/adelevski/finance_dashboards)
 ### (1) [Binance BTC Screener](https://github.com/adelevski/finance_dashboards/tree/main/Binance_BTC_Screener)
@@ -31,6 +34,7 @@ My portfolio of projects
 * Webapp for TA on variety of stocks, choose a pattern and get stocks showcasing chosen pattern
 ### (4) [TTM Squeeze Scanner](https://github.com/adelevski/finance_dashboards/tree/main/Squeeze)
 * Using a TTM Squeeze indicator (BB's, KB's, ATR, momentum indicator / histogram) in Python
+
 ---------------------------------------------
 ## [Crypto Tracker](https://github.com/adelevski/crypto-tracker)
 * Tired of all these portfolio trackers only offering 1 or 2 exchange api hook ups on their free versions...
