@@ -32,4 +32,5 @@ My portfolio of projects
 ### (4) [TTM Squeeze Scanner](https://github.com/adelevski/finance_dashboards/tree/main/Squeeze)
 * Using a TTM Squeeze indicator (BB's, KB's, ATR, momentum indicator / histogram) in Python
 ---------------------------------------------
-
+## [Crypto Tracker](https://github.com/adelevski/crypto-tracker)
+* Tired of all these portfolio trackers only offering 1 or 2 exchange api hook ups on their free versions...
