@@ -17,9 +17,19 @@ My portfolio of projects
 * KNN Classifier
 * K-Means Clustering
 ---------------------------------------------
-
 ## [Style Transfer](https://github.com/adelevski/Style-Transfer)
 * Used streamlit to create a fast and lightweight dashboard
 * Leveraged PyTorch neural transfer for transfering image styles
 * User has ability to upload an image, and view several different new styles for their image
+----------------------------------------------
+## [Finance Dashboards](https://github.com/adelevski/finance_dashboards)
+### (1) [Binance BTC Screener](https://github.com/adelevski/finance_dashboards/tree/main/Binance_BTC_Screener)
+* Webapp connected to binance api to showcase realtime candlestick BTC chart with websockets and TradingView's lightweight charts
+### (2) [Streamlit](https://github.com/adelevski/finance_dashboards/tree/main/Streamlit)
+* Quick financial dashboard using Streamlit library
+### (3) [TA Screener](https://github.com/adelevski/finance_dashboards/tree/main/TA_Screener)
+* Webapp for TA on variety of stocks, choose a pattern and get stocks showcasing chosen pattern
+### (4) [TTM Squeeze Scanner](https://github.com/adelevski/finance_dashboards/tree/main/Squeeze)
+* Using a TTM Squeeze indicator (BB's, KB's, ATR, momentum indicator / histogram) in Python
+---------------------------------------------
 
